@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Build step\"",
-    "test": "nightwatch --headless"
+    "build": "echo \"Build step\""
   },
   "keywords": [],
   "author": "",
