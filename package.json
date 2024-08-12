@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Build step\"",
-    "test": "npm run lint"
+    "build": "echo \"Build step\""
   },
   "keywords": [],
   "author": "",
